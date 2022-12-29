@@ -12,3 +12,6 @@ gatus.io/config: |
       conditions:
         - "[STATUS] == 200"
 ```
+
+### Limitations
+- TODO: Prevent any configuration that is not under `endpoints[]` (e.g. no `alerting.slack` or `ui.title` config) 
