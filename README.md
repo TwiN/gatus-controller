@@ -1,6 +1,8 @@
 # gatus-controller
 See https://github.com/TwiN/gatus/issues/393
 
+> :warning: This is planned for the future. See https://github.com/home-operations/gatus-sidecar for a good Kubernetes native solution
+
 
 Support annotations such as the following on Kubernetes services:
 ```yaml
